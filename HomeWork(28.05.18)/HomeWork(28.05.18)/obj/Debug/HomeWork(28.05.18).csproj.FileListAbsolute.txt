@@ -1,0 +1,6 @@
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\bin\Debug\HomeWork(28.05.18).exe.config
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\bin\Debug\HomeWork(28.05.18).exe
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\bin\Debug\HomeWork(28.05.18).pdb
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\obj\Debug\HomeWork(28.05.18).csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\obj\Debug\HomeWork(28.05.18).exe
+c:\users\pko\documents\visual studio 2017\Projects\HomeWork(28.05.18)\HomeWork(28.05.18)\obj\Debug\HomeWork(28.05.18).pdb
